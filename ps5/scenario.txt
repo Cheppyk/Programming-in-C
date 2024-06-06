@@ -1,0 +1,30 @@
+examine book in Library.
+move east to Study.
+examine map.
+move east to Observatory.
+use telescope.
+move west to Study.
+move south to Gallery.
+move south to Ballroom.
+examine candle.
+move west to Dining Room.
+move south to Courtyard.
+move south to Gardens.
+move east to Crypt.
+use key on secret door in Crypt.
+move east to Armory.
+take dagger.
+move west to Crypt.
+move west to Gardens.
+move north to Courtyard.
+move north to Dining Room.
+move east to Ballroom.
+move east to Gallery.
+move north to Study.
+move east to Observatory.
+move west to Study.
+move west to Library.
+use dagger to discover hidden compartment in Library.
+take secret document.
+move west to Tower.
+use document to decode message.
